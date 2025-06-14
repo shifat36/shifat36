@@ -26,8 +26,8 @@ I am **Md Shihab Hossain Shifat**, a DevOps and Cloud Engineer 🚀 from 🇧�
 ### 🧩 Monitoring & Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" height="40" alt="MSSQL"/>
-  <img src="https://www.oracle.com/oce/apps/ocom/oracle-cloud/img/oracle-logo.svg" height="40" alt="Oracle 19c"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" height="40" alt="MSSQL"/>
+  <img src="https://logowik.com/content/uploads/images/oracle5786.jpg" height="40" alt="Oracle 19c"/>
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="40" alt="Zabbix"/>
 </p>
 
