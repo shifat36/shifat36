@@ -18,7 +18,7 @@ I am **Md Shihab Hossain Shifat**, a DevOps and Cloud Engineer 🚀 from 🇧�
 <p>
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="AWS"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@ I am **Md Shihab Hossain Shifat**, a DevOps and Cloud Engineer 🚀 from 🇧�
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" height="40" alt="MSSQL"/>
-  <img src="https://www.oracle.com/a/tech/img/cb88-java-oracle-logo.png" height="40" alt="Oracle 19c"/>
+  <img src="https://www.oracle.com/oce/apps/ocom/oracle-cloud/img/oracle-logo.svg" height="40" alt="Oracle 19c"/>
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="40" alt="Zabbix"/>
 </p>
 
